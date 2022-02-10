@@ -26,3 +26,7 @@ S|后
 D|左
 A|右
 Q/E|左右自旋
+
+## 写在最后
+
+具体如何搭建与使用，在我的[博客 webots 篇](https://lapzjfit.site/post/Webots%2Flist%2FWebots%E5%BA%8F%E7%AB%A0)详细说明。
